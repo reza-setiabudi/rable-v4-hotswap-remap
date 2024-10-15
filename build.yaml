@@ -13,3 +13,6 @@
 #
 ---
 board: [ "rable_v4_hotswap" ]
+include:
+  - board: rable_v4_hotswap
+    snippet: studio-rpc-usb-uart
